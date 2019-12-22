@@ -4,7 +4,7 @@
     <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>"F:\新建文件夹\Desktop\Desktop 07.25.2017 - 01.40.32.02.mp4"</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"F:\新建文件夹\Desktop\回归.mp4"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,41 @@
+﻿生成启动时间为 2019/12/22 12:31:47。
+     1>项目“C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\VideoPlay\VideoPlay.vcxproj”在节点 2 上(Build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“Debug\VideoPlay.tlog\”。
+       InitializeBuildStatus:
+         正在创建“Debug\VideoPlay.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"pch.h" /Fp"Debug\VideoPlay.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt pch.cpp
+         pch.cpp
+         F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"pch.h" /Fp"Debug\VideoPlay.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /FC /errorReport:prompt VideoPlay.cpp
+         VideoPlay.cpp
+     1>c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\ffmpeg\x86\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(149): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+     1>c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(267): warning C4244: “参数”: 从“int64_t”转换到“DWORD”，可能丢失数据
+     1>c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(369): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+     1>c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(370): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+     1>c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(372): warning C4244: “参数”: 从“int64_t”转换到“DWORD”，可能丢失数据
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.15.26726\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\Debug\VideoPlay.exe" /INCREMENTAL /NOLOGO avcodec.lib avdevice.lib avfilter.lib avformat.lib avutil.lib postproc.lib swresample.lib swscale.lib SDL2.lib SDL2main.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\Debug\VideoPlay.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\Debug\VideoPlay.lib" /MACHINE:X86 Debug\pch.obj
+         Debug\VideoPlay.obj
+         VideoPlay.vcxproj -> C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\Debug\VideoPlay.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\VideoPlay.tlog\unsuccessfulbuild”。
+         正在对“Debug\VideoPlay.tlog\VideoPlay.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\VideoPlay\VideoPlay.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+       “C:\Users\Administrator.YOS-01609071533.000\Desktop\learn\VideoPlay\VideoPlay\VideoPlay\VideoPlay.vcxproj”(Build 目标) (1) ->
+       (ClCompile 目标) -> 
+         c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\ffmpeg\x86\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(149): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+         c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(267): warning C4244: “参数”: 从“int64_t”转换到“DWORD”，可能丢失数据
+         c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(369): warning C4244: “初始化”: 从“int64_t”转换到“int”，可能丢失数据
+         c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(370): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+         c:\users\administrator.yos-01609071533.000\desktop\learn\videoplay\videoplay\videoplay\videoplay.cpp(372): warning C4244: “参数”: 从“int64_t”转换到“DWORD”，可能丢失数据
+
+    6 个警告
+    0 个错误
+
+已用时间 00:00:02.19
